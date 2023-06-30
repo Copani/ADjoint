@@ -6,3 +6,6 @@ This jupiter notebook supplements the written report on the adjoint state method
 3. A comprehensive clean code example of the adjoint state method that only uses ODE solvers. Comparison to finite differences
 
 For a computationally efficint sensitivity calculation for ODEs and other equations, see the [SciMLSensitivity.jl](https://docs.sciml.ai/SciMLSensitivity/stable/) package for julia.
+
+### Summary of the Adjoint State Method
+<img src="Adjoint_State_Method_math.png" alt="image description" width="700" height="400">
